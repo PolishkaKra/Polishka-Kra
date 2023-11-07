@@ -1,1 +1,1 @@
-# Polishka-Kra
+# calculator_polishka_kra
